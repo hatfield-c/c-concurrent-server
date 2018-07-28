@@ -1,0 +1,83 @@
+
+[Session Initiated] Saturday, July 28, 2018, 01:21:53 AM
+
+[Command]: date
+-----------------------
+[Response Begin:]
+Sat Jul 28 01:21:53 CDT 2018
+
+[:Response End]
+
+
+[Command]: date
+-----------------------
+[Response Begin:]
+Sat Jul 28 01:21:56 CDT 2018
+
+[:Response End]
+
+
+[Command]: date
+-----------------------
+[Response Begin:]
+Sat Jul 28 01:21:59 CDT 2018
+
+[:Response End]
+
+
+[Command]: date
+-----------------------
+[Response Begin:]
+Sat Jul 28 01:22:02 CDT 2018
+
+[:Response End]
+
+
+[Command]: date
+-----------------------
+[Response Begin:]
+Sat Jul 28 01:22:05 CDT 2018
+
+[:Response End]
+
+
+[Command]: date
+-----------------------
+[Response Begin:]
+Sat Jul 28 01:22:08 CDT 2018
+
+[:Response End]
+
+
+[Command]: date
+-----------------------
+[Response Begin:]
+Sat Jul 28 01:22:11 CDT 2018
+
+[:Response End]
+
+
+[Command]: date
+-----------------------
+[Response Begin:]
+Sat Jul 28 01:22:14 CDT 2018
+
+[:Response End]
+
+
+[Command]: date
+-----------------------
+[Response Begin:]
+Sat Jul 28 01:22:17 CDT 2018
+
+[:Response End]
+
+
+[Command]: date
+-----------------------
+[Response Begin:]
+Sat Jul 28 01:22:20 CDT 2018
+
+[:Response End]
+
+[Session Ended] Saturday, July 28, 2018, 01:22:23 AM

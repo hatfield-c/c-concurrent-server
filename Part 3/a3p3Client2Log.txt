@@ -1,0 +1,281 @@
+
+[Session Initiated] Saturday, July 28, 2018, 03:42:53 AM
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:42:53 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:42 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:42:55 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:42 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:42:57 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:42 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:42:59 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:42 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:43:01 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:43 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:43:03 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:43 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:43:05 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:43 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:43:07 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:43 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:43:10 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:43 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:43:12 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:43 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:43:14 CDT 2018
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:43:16 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:43 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:43:18 CDT 2018
+ls: cannot access junk.txt: No such file or directory
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+[Session Initiated] Saturday, July 28, 2018, 03:47:19 AM
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:47:19 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:47 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:47:21 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:47 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:47:23 CDT 2018
+ls: cannot access junk.txt: No such file or directory
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:47:25 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:47 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:47:27 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:47 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:47:29 CDT 2018
+ls: cannot access junk.txt: No such file or directory
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:47:31 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:47 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:47:33 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:47 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:47:35 CDT 2018
+ls: cannot access junk.txt: No such file or directory
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:47:37 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:47 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:47:39 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:47 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:47:41 CDT 2018
+ls: cannot access junk.txt: No such file or directory
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:47:43 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:47 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:47:45 CDT 2018
+-rw-------+ 1 cxh124730 sn 0 Jul 28 03:47 junk.txt
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+
+[Command]: date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+-----------------------
+[Response Begin:]
+Sat Jul 28 03:47:47 CDT 2018
+ls: cannot access junk.txt: No such file or directory
+ls: cannot access junk.txt: No such file or directory
+
+[:Response End]
+
+[Session Ended] Saturday, July 28, 2018, 03:47:49 AM

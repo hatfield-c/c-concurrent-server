@@ -1,0 +1,76 @@
+
+[Thread -221567232: Received Command]> date; ls -l junk.txt; touch junk.txt; ls -l junk.txt;
+[Saturday, July 28, 2018, 02:49:02 AM]
+
+[Thread -213174528: Received Command]> date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+[Saturday, July 28, 2018, 02:49:05 AM]
+
+[Thread -221567232: Received Command]> date; ls -l junk.txt; touch junk.txt; ls -l junk.txt;
+[Saturday, July 28, 2018, 02:49:05 AM]
+
+[Thread -213174528: Received Command]> date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+[Saturday, July 28, 2018, 02:49:07 AM]
+
+[Thread -221567232: Received Command]> date; ls -l junk.txt; touch junk.txt; ls -l junk.txt;
+[Saturday, July 28, 2018, 02:49:08 AM]
+
+[Thread -213174528: Received Command]> date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+[Saturday, July 28, 2018, 02:49:09 AM]
+
+[Thread -213174528: Received Command]> date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+[Saturday, July 28, 2018, 02:49:11 AM]
+
+[Thread -221567232: Received Command]> date; ls -l junk.txt; touch junk.txt; ls -l junk.txt;
+[Saturday, July 28, 2018, 02:49:11 AM]
+
+[Thread -213174528: Received Command]> date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+[Saturday, July 28, 2018, 02:49:13 AM]
+
+[Thread -221567232: Received Command]> date; ls -l junk.txt; touch junk.txt; ls -l junk.txt;
+[Saturday, July 28, 2018, 02:49:14 AM]
+
+[Thread -213174528: Received Command]> date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+[Saturday, July 28, 2018, 02:49:15 AM]
+
+[Thread -213174528: Received Command]> date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+[Saturday, July 28, 2018, 02:49:17 AM]
+
+[Thread -221567232: Received Command]> date; ls -l junk.txt; touch junk.txt; ls -l junk.txt;
+[Saturday, July 28, 2018, 02:49:17 AM]
+
+[Thread -213174528: Received Command]> date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+[Saturday, July 28, 2018, 02:49:19 AM]
+
+[Thread -221567232: Received Command]> date; ls -l junk.txt; touch junk.txt; ls -l junk.txt;
+[Saturday, July 28, 2018, 02:49:20 AM]
+
+[Thread -213174528: Received Command]> date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+[Saturday, July 28, 2018, 02:49:21 AM]
+
+[Thread -213174528: Received Command]> date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+[Saturday, July 28, 2018, 02:49:23 AM]
+
+[Thread -221567232: Received Command]> date; ls -l junk.txt; touch junk.txt; ls -l junk.txt;
+[Saturday, July 28, 2018, 02:49:23 AM]
+
+[Thread -213174528: Received Command]> date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+[Saturday, July 28, 2018, 02:49:25 AM]
+
+[Thread -221567232: Received Command]> date; ls -l junk.txt; touch junk.txt; ls -l junk.txt;
+[Saturday, July 28, 2018, 02:49:26 AM]
+
+[Thread -213174528: Received Command]> date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+[Saturday, July 28, 2018, 02:49:27 AM]
+
+[Thread -213174528: Received Command]> date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+[Saturday, July 28, 2018, 02:49:29 AM]
+
+[Thread -221567232: Received Command]> date; ls -l junk.txt; touch junk.txt; ls -l junk.txt;
+[Saturday, July 28, 2018, 02:49:29 AM]
+
+[Thread -213174528: Received Command]> date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+[Saturday, July 28, 2018, 02:49:31 AM]
+
+[Thread -213174528: Received Command]> date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt 
+[Saturday, July 28, 2018, 02:49:33 AM]
+

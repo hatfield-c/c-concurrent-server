@@ -1,0 +1,31 @@
+
+[Thread 1841014528: Received Command]> date
+[Saturday, July 28, 2018, 01:21:53 AM]
+
+[Thread 1841014528: Received Command]> date
+[Saturday, July 28, 2018, 01:21:56 AM]
+
+[Thread 1841014528: Received Command]> date
+[Saturday, July 28, 2018, 01:21:59 AM]
+
+[Thread 1841014528: Received Command]> date
+[Saturday, July 28, 2018, 01:22:02 AM]
+
+[Thread 1841014528: Received Command]> date
+[Saturday, July 28, 2018, 01:22:05 AM]
+
+[Thread 1841014528: Received Command]> date
+[Saturday, July 28, 2018, 01:22:08 AM]
+
+[Thread 1841014528: Received Command]> date
+[Saturday, July 28, 2018, 01:22:11 AM]
+
+[Thread 1841014528: Received Command]> date
+[Saturday, July 28, 2018, 01:22:14 AM]
+
+[Thread 1841014528: Received Command]> date
+[Saturday, July 28, 2018, 01:22:17 AM]
+
+[Thread 1841014528: Received Command]> date
+[Saturday, July 28, 2018, 01:22:20 AM]
+
